@@ -1,3 +1,6 @@
 [submodule ".devcontainer"]
 	path = .devcontainer
 	url = git@github.com:hayatoshibahara/.devcontainer
+[submodule "LLaVA"]
+	path = LLaVA
+	url = git@github.com:haotian-liu/LLaVA.git
